@@ -1,0 +1,29 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  <your title>: LoClean
+  Site: http://loclean.com
+  Twitter: loclean
+  Location: Chicago, IL USA
+
+/* THANKS */
+  Names (& URL): http://lanceennen.com
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software:
+
+
+
+  *************************************************************
+  ***     ___           ____   _  __   _  __   ____   _  __ ***
+  ***    / _ )  __ __  / __/  / |/ /  / |/ /  / __/  / |/ / ***
+  ***   / _  | / // / / _/   /    /  /    /  / _/   /    /  ***
+  ***  /____/  \_, / /___/  /_/|_/  /_/|_/  /___/  /_/|_/   ***
+  ***         /___/                                         ***
+  *************************************************************
+  *****ByENNEN, LLC. Lance Ennen: byennen@gmail.com************
+  *************************************************************
